@@ -4,7 +4,7 @@ A sleek, responsive, and functional To-Do List application built with HTML, CSS,
 
 ## 🚀 Demo
 
-You can view the live demo here: https://todolistforsurvival.netlify.app/
+You can view the live demo here: https://syncthetodo.netlify.app/
 
 ## ✨ Features
 
