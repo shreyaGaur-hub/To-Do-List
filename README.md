@@ -2,6 +2,10 @@
 
 A sleek, responsive, and functional To-Do List application built with HTML, CSS, and Vanilla JavaScript. This project features a clean UI, persistent storage using LocalStorage, and a progress-tracking celebration message.
 
+## 🚀 Demo
+
+You can view the live demo here: https://todolistforsurvival.netlify.app/
+
 ## ✨ Features
 
 * **Add Tasks:** Quickly add new items to your list.
